@@ -1,27 +1,27 @@
-# Getting Started with Create React App
+# Iniciando a criação de uma aplicação React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O projeto foi iniciar através de [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Scripts disponíveis
 
-In the project directory, you can run:
+Na pasta do projeto você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Inicia a aplicação em modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A página irá recarregar quando você fizer mudanças.\
+Você poderá também visualizar alguns erros no console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inicia o teste interativo.\
+Leia a seção a respeito [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para maiores informações.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Contrói a aplicação para produção na pasta `build` .\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
