@@ -14,9 +14,7 @@ function App() {
             <nav class="navbar background">
                 <ul class="nav-list">
                     <div class="logo">
- //                       <img src=
-//"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS8i30uIxEQpkiYmZYLZ2c2xbB3sO9Z4U50AeC4kqT&s"
-   //                     />
+ 
                     </div>
                                 
                 </ul>
@@ -163,6 +161,12 @@ function App() {
                     </div>
                 </div>
             </section>
+
+            <footer class="bootstrap-classes">
+                <div class="container">
+                     <span>....</span>
+                </div>
+            </footer>
             <footer className="footer">
                 <p className="text-footer">
                     Copyright ©-Todos os Direitos Reservados
