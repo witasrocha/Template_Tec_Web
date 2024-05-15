@@ -1,6 +1,6 @@
 # Iniciando a criação de uma aplicação React
 
-O projeto foi iniciar através de [Create React App](https://github.com/facebook/create-react-app).
+O projeto foi iniciado através do comando [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts disponíveis
 
